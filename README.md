@@ -1,3 +1,7 @@
+Sorry I was looking for a place to say Thank You for your plugin and your work! 
+
+
+
 # Rainmeter-MediaMonkey
 A rainmeter plugin for [MediaMonkey](http://www.mediamonkey.com). The plugin was designed with compatibility with the [official NowPlaying plugin](https://docs.rainmeter.net/manual-beta/plugins/nowplaying/) in mind, so most configurations for NowPlaying should be usable with minimal configuration changes.
 
